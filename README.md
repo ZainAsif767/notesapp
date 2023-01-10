@@ -3,7 +3,7 @@
 This React app is imported as React module called [ReactMde](https://www.npmjs.com/package/react-mde)
 It also includes module like [Split](https://www.npmjs.com/package/react-split-pane) and [Nanoid](https://www.npmjs.com/package/nanoid) 
 
-### Some of the Features I added were
+### Some of the Features I added are: 
 
 - Synced Notes with localStorage
 - Added note summary title
