@@ -10,6 +10,12 @@ It also includes module like [Split](https://www.npmjs.com/package/react-split-p
 - Moved modified notes to the top of the list
 - Delete notes
 
+## Solution 
+
+Github [Solution link](https://github.com/ZainAsif767/notesapp)
+Live URL [Notes App](https://markdown-notes-app1.netlify.app/)
+
+
 ## ScreenShot
 
 ![image](https://user-images.githubusercontent.com/98703238/211536468-4530e52b-5e7a-43b6-819c-c1ce8552d7fb.png)
