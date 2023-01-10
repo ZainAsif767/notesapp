@@ -12,8 +12,8 @@ It also includes module like [Split](https://www.npmjs.com/package/react-split-p
 
 ## Solution 
 
-Github [Solution link](https://github.com/ZainAsif767/notesapp)
-Live URL [Notes App](https://markdown-notes-app1.netlify.app/)
+- Github [Solution link](https://github.com/ZainAsif767/notesapp)
+- Live URL [Notes App](https://markdown-notes-app1.netlify.app/)
 
 
 ## ScreenShot
